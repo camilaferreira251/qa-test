@@ -22,8 +22,6 @@ Funcionalidade: Autenticação de usuário na API
             | username   |  <username>   |
             | email      |  <email>      |
             | password   |  <password>   |
-            | client_id  |  <client_id>  |
-            | grant_type |  <grant_type> |
         Quando eu faço uma solicitação POST para o serviço Authentication
         Então o código de resposta HTTP deve ser igual a "<status_code>"
         E no corpo da resposta devo ver a mensagem "<message>"

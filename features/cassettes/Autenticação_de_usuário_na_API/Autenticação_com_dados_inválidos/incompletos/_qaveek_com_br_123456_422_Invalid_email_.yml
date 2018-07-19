@@ -1,7 +1,7 @@
 http_interactions:
 - request:
     method: post
-    uri: http://app.auth/token
+    uri: http://app.auth/login
     body:
       encoding: UTF-8
       string: '{"email":"qaveek.com.br","password":"123456"}'
