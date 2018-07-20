@@ -47,8 +47,8 @@ Method - GET
 
 
 Responses:
-200 - OK
-400 - Request was not validated
+- 200 - OK
+- 400 - Request was not validated
 
 
 
