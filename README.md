@@ -17,7 +17,7 @@ METHOD - POST
     }
 
 
-Responses:
+Status Code Responses:
 - 200 - OK
 - 400 - Request was not validated
 - 422 - Email is required
@@ -28,7 +28,7 @@ Responses:
 ### Endpoint - https://app.account/me
 Method - GET
 
-Response body:
+Response:
 
     {
       "user_id": "String",
@@ -41,7 +41,7 @@ Response body:
     }
 
 
-Responses:
+Status Code Responses:
 - 200 - OK
 - 400 - Request was not validated
 
