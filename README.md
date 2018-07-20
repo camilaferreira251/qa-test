@@ -30,10 +30,10 @@ METHOD - POST
 
 
 Responses:
-200 - OK
-400 - Request was not validated
-422 - Email is required
-422 - Password is required
+- 200 - OK
+- 400 - Request was not validated
+- 422 - Email is required
+- 422 - Password is required
 
 
 
