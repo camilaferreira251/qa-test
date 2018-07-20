@@ -11,6 +11,8 @@ Os endpoints são Mocks do framework VCR, portanto, não podem ser acessados de 
 ### Endpoint - http://app.auth/login
 METHOD - POST
 
+Request body:
+
     {
       "email": "String",
       "password": "String"
@@ -28,7 +30,7 @@ Status Code Responses:
 ### Endpoint - https://app.account/me
 Method - GET
 
-Response:
+Response body:
 
     {
       "user_id": "String",
