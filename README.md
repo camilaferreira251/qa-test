@@ -1,12 +1,5 @@
 # Veek - QA Test
 
-Bem vindo(a)!
-
-Esse teste consiste em medir seus conhecimentos em Ruby e Cucumber.
-
-
-## O Teste
-
 O teste consiste na automatização do acesso a dois endpoints. Os cenários em BDD estão disponíveis em "/specs/app". O boilerplate já possui todas as ferramentas, frameworks e bibliotecas necessárias para a realização do teste.
 
 
